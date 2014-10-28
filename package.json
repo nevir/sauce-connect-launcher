@@ -17,7 +17,7 @@
     "url": "https://github.com/bermi/sauce-connect-launcher"
   },
   "scripts": {
-    "install": "node scripts/install.js",
+    "install": "node scripts/postinstall.js",
     "test": "make test"
   },
   "dependencies": {
